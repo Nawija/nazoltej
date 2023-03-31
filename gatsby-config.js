@@ -4,6 +4,7 @@
 require("dotenv").config();
 module.exports = {
     siteMetadata: {
+        pathPrefix: "/nazoltej",
         title: `Rejestracja pojazdów na żółte tablice`,
         description: `Rejestracja pojazdów na żółte tablice. Pełna dokumentacja, opinie rzeczoznawcy.`,
         author: `@Seovileo`,
